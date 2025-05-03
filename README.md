@@ -11,7 +11,7 @@ A repository focused on assessing the likelihood of a customer accepting a coupo
 2. Use a python environment manager. I prefer conda.
 3. Create and activate conda environment
     ```
-    conda create -n coupon 
+    conda create -n coupon python 
     conda activate coupon
     ```
 4. Install dependencies
