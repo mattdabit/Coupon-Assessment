@@ -182,3 +182,7 @@ I decided to create two models for expensive restaurant coupon acceptance. A dec
 4. Present current suggestions to business leaders
 5. If possible, enrich the dataset with more features. I think socials would be a great addition.
 6. Use and improve the model!
+
+## Heads up
+The model's performance will change for you. There is an element of randomness to model creation. You mitigate this by 
+pickling the model object. This would prevent such a problem.
