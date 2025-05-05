@@ -33,7 +33,7 @@ The following analysis was taken from the Report Notebook.
 
 ## About the Dataset
 
-This dataset describes different driving scenarios and asks the driver if they are willing to accept a coupon. The dataset includes demographical data and situational factors for the driver. The dataset contains multiple coupon types but I decided to focus on bars and more expensive restaurants (\$20 - \$50). The dataset is available [here](https://github.com/mattdabit/Coupon-Assessment/blob/main/data/coupon.csv). An explaination of all the columns and all the code I wrote for this analysis can be found [here](https://github.com/mattdabit/Coupon-Assessment/blob/main/prompt.ipynb). You will find most of the contents of this file to be in the aforementioned link as well.
+This dataset describes different driving scenarios and asks the driver if they are willing to accept a coupon. The dataset includes demographical data and situational factors for the driver. The dataset contains multiple coupon types but I decided to focus on bars and more expensive restaurants (\$20 - \$50). The dataset is available [here](https://github.com/mattdabit/Coupon-Assessment/blob/main/data/coupons.csv). An explanation of all the columns and all the code I wrote for this analysis can be found [here](https://github.com/mattdabit/Coupon-Assessment/blob/main/prompt.ipynb). You will find most of the contents of this file to be in the aforementioned link as well.
 
 
 ## Missing Columns Analysis
